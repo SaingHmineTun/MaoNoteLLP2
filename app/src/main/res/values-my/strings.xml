@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">မောဝ်းမှတ်စု</string>
+    <string name="enter_title">ခေါင်းစဉ်ရေးပါ</string>
+    <string name="enter_content">စာစီထည့်ပါ</string>
+    <string name="cancel">မလုပ်တော့ပါ</string>
+    <string name="save">သိမ်းမည်</string>
+    <string name="delete">ဖျက်မည်</string>
+    <string name="update">ပြင်ဆင်မည်</string>
+</resources>
